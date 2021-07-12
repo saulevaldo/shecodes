@@ -44,6 +44,7 @@
   line-height: 100px;
   border-radius: 10px;
   border: 2px solid black;
+  color: blue;
 }
 
 .day {
@@ -58,4 +59,9 @@
 .temp {
   font-size: 20px;
   font-weight: bold;
+}
+
+.whole {
+  background-color: aquamarine;
+  max-width: 100px;
 }
