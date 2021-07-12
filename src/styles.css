@@ -1,0 +1,61 @@
+.col-6 {
+  padding: 10px;
+  text-align: center;
+  margin-top: 20px;
+  border-radius: 10px;
+  font-size: 20px;
+  border: 2px solid black;
+}
+
+.humidity,
+.windSpeed {
+  display: block;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.city,
+.time,
+.temp {
+  font-size: 20px;
+  color: magenta;
+}
+
+.search {
+  text-align: center;
+  margin: 3px auto;
+  line-height: 30px;
+}
+
+.button {
+  padding: 0 10px;
+}
+
+.one,
+.two,
+.three,
+.four,
+.five {
+  border-radius: 4px;
+  margin: 2px 4px 5px auto;
+  padding: 5px;
+  text-align: center;
+  line-height: 100px;
+  border-radius: 10px;
+  border: 2px solid black;
+}
+
+.day {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.emoji {
+  font-size: 40px;
+}
+
+.temp {
+  font-size: 20px;
+  font-weight: bold;
+}
